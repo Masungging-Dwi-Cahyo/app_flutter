@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "610252283162",
+    "project_id": "fir-flutter-33e47",
+    "storage_bucket": "fir-flutter-33e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610252283162:android:8b161e5556bcc1d038a0a3",
+        "android_client_info": {
+          "package_name": "com.example.app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610252283162-e7kuk7jdrdong2km80cau945c54n9lmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWHmT27iwksGUx2UsFyehJDkg8idrA5fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610252283162-e7kuk7jdrdong2km80cau945c54n9lmq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610252283162-07p7gfkhjmro76btigeu523mb9sl3lgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.masungging.aplikasi01"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610252283162:android:a1ed43b9f050ac1638a0a3",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610252283162-e7kuk7jdrdong2km80cau945c54n9lmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWHmT27iwksGUx2UsFyehJDkg8idrA5fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610252283162-e7kuk7jdrdong2km80cau945c54n9lmq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610252283162-07p7gfkhjmro76btigeu523mb9sl3lgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.masungging.aplikasi01"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610252283162:android:9ef4dcb50a128e0f38a0a3",
+        "android_client_info": {
+          "package_name": "id.masungging.aplikasi_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610252283162-e7kuk7jdrdong2km80cau945c54n9lmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWHmT27iwksGUx2UsFyehJDkg8idrA5fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610252283162-e7kuk7jdrdong2km80cau945c54n9lmq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610252283162-07p7gfkhjmro76btigeu523mb9sl3lgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.masungging.aplikasi01"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
